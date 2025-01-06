@@ -1,0 +1,23 @@
+.adverts{
+    text-align: center;
+    background-color: #1b1e4a;
+    color: white;
+    padding: 5px;
+}
+
+.adverts >button{
+    background-color: purple;
+    color: white;
+}
+.welcome >a{
+    color: black;
+    text-decoration: none;
+}
+.save:hover{
+    scale: 1.2;
+}
+
+.suits:hover{
+    scale: 1.2;
+}
+
